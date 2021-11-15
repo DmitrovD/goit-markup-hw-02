@@ -90,7 +90,6 @@ body {
 
 .footer-link-location {
   color: var(--white-text-color);
-  font-style: normal;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
@@ -98,7 +97,6 @@ body {
 
 .footer-link {
   color: var(--low-opacity-text);
-  font-style: normal;
   font-size: 14px;
   line-height: 1.7;
   letter-spacing: 0.03em;
@@ -128,12 +126,12 @@ body {
 .works-title {
   color: var(--prime-tex-color);
   font-weight: 700;
-  size: 18px;
+  font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
 }
 
-.about-works {
+.about-text{
   color: var(--secondary-color);
   font-size: 16px;
   line-height: 1.87;
